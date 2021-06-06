@@ -40,6 +40,9 @@ This repository provides the DisCOC model, which is used in the argument impact 
 
 *Figure 2: F1 scores of different models on varying the maximum path length.*
 
+Please refer to [Exploring Discourse Structures for Argument Impact Classification
+](https://arxiv.org/abs/2106.00976) to see another results.
+
 ## Pipeline
 
 ### Package Dependencies
@@ -131,7 +134,7 @@ The details of this architecture are described in the following paper. If you us
                Yangqiu Song and
                Xin Jiang},
   title     = {Exploring Discourse Structures for Argument Impact Classification},
-  booktitle = {Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL) 2021},
+  booktitle = {Annual Meeting of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing (ACL-IJCNLP) 2021},
   year      = {2021},
 }
 ```
