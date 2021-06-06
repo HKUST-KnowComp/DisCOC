@@ -1,0 +1,9 @@
+spacy
+torch
+tensorboardX
+sentencepiece
+transformers
+numpy
+pandas
+tqdm
+scikit-learn
