@@ -8,7 +8,7 @@ This repository provides the DisCOC model, which is used in the argument impact 
 
 ## Data and Pretrained Models
 
-* We use a dataset crawled from *kialo.com* to evaluate our model. The dataset is provided by [Esin Durmus](https://www.cs.cornell.edu/~esindurmus/). If you get the data, please put `argument_impact.pkl` in `data/arg_impact` and put `argument_specificity_stance.pkl` in `arg_spec_stance`.
+* We use a dataset crawled from *kialo.com* to evaluate our model. The dataset is provided by [Esin Durmus](https://www.cs.cornell.edu/~esindurmus/), and you can contact her via email ([esdurmus@stanford.edu](mailto:esdurmus@stanford.edu)). If you get the data, please put `argument_impact.pkl` in `data/arg_impact` and put `argument_specificity_stance.pkl` in `arg_spec_stance`.
 * We use the pretrained BMGF-RoBERTa to predict the implicit discourse relations between two arguments. Please refer [BMGF-RoBERTa](https://github.com/HKUST-KnowComp/BMGF-RoBERTa/) to get the code and pretrained model. Alternatively, you can use the predictions in `data/arg_impact` directly.
 
 ## Results
